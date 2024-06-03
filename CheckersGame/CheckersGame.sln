@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame", "CheckersGame.csproj", "{8C156D95-E9E7-40D8-A9DE-5CC80FDBE538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckersGame.Tests", "..\CheckersGame.Tests\CheckersGame.Tests.csproj", "{98CEE6C9-F58A-481F-829B-8B4818B159B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C156D95-E9E7-40D8-A9DE-5CC80FDBE538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C156D95-E9E7-40D8-A9DE-5CC80FDBE538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C156D95-E9E7-40D8-A9DE-5CC80FDBE538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C156D95-E9E7-40D8-A9DE-5CC80FDBE538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CEE6C9-F58A-481F-829B-8B4818B159B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CEE6C9-F58A-481F-829B-8B4818B159B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CEE6C9-F58A-481F-829B-8B4818B159B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CEE6C9-F58A-481F-829B-8B4818B159B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072E5A57-96C2-4601-866D-048DFACB4767}
+	EndGlobalSection
+EndGlobal
