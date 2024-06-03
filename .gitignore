@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/CheckersGame/.vs
+/CheckersGame/bin/Debug/net6.0
+/CheckersGame/obj
+/CheckersGame.Tests/bin/Debug/net6.0
+/CheckersGame.Tests/obj
